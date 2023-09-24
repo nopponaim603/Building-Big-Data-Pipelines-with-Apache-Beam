@@ -18,6 +18,7 @@
 
     <jupiter.version>5.7.1</jupiter.version>
     <spotless.version>2.0.1</spotless.version>
+    <!-- spotless-maven-plugin https://central.sonatype.com/artifact/com.diffplug.spotless/spotless-maven-plugin/versions-->
     <maven.ext.os.version>1.7.0</maven.ext.os.version>
     <maven.protobuf.version>0.6.1</maven.protobuf.version>
     <maven.shade.version>3.2.4</maven.shade.version>
